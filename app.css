@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@500&family=Dela+Gothic+One&family=Koulen&family=Lato:ital@1&family=Monoton&family=Montserrat:ital,wght@0,400;0,500;1,600&family=Orbitron:wght@700&family=Permanent+Marker&family=Raleway:wght@600&family=Red+Hat+Mono:wght@500&family=Roboto+Condensed:wght@300;700&family=Rubik:wght@400;500;600&family=Smooch+Sans&family=Ubuntu:wght@500&display=swap');
+
+* {
+    margin : 10px;
+    font-family: 'Rubik', sans-serif;
+    overflow-x: hidden;
+}
+
+
+body {
+    overflow-x: hidden;
+}
